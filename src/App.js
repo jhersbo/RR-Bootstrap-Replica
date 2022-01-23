@@ -1,9 +1,11 @@
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css'
+import TopBar from './components/TopBar';
 
 function App() {
   return (
-    <div className="App">
-      <h1>Hello World</h1>
+    <div>
+      <TopBar></TopBar>
     </div>
   );
 }
