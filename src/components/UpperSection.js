@@ -19,7 +19,7 @@ function UpperSection(){
             backgroundRepeat: 'no-repeat',
             zIndex: '-1',
             }}>
-            <CardHeader style={{'border': 'none', fontFamily: 'sans-serif',fontSize: '40px', fontWeight: '600'}}>Groceries, ready meals, and more, for pickup or delivery</CardHeader>
+            <CardHeader style={{'border': 'none', fontFamily: 'sans-serif',fontSize: '40px', fontWeight: '600', textAlign: 'left'}}>Groceries, ready meals, and more, for pickup or delivery</CardHeader>
             <AddressForm></AddressForm>
         </Card>
     )

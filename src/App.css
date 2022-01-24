@@ -1,13 +1,1 @@
 
-
-#fruit{
-  background-size: contain;
-  background-repeat: no-repeat;
-  position: absolute;
-  z-index: -1;
-  height: 100%;
-  width: 100%;
-  background-position: right center;
-  background-image: url("https://www.instacart.com/image-server/x856/www.instacart.com/assets/homepage/homepage_background_full_m3_cropped-8d2d286263821da7decd7c61fb1db1eb0e3dec13e0c356277d6d3cb7484c024a.jpg");
-  background-color: rgb(222, 237, 214);
-}
